@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Leen 👋
 
-<!--
-**leenaljamal/leenaljamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Information Systems Student  
+💻 Practicing C++ & Algorithms | Clean Code Enthusiast  
+🧠 Focused on problem-solving and logical thinking  
+📱 Aspiring Mobile & Web Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+- Foundations Level 1 & 2  
+- Algorithms & Problem-Solving Level 1 & 2  
+- Introduction to C++ Level 1 & 2  
+- Clean Code and professional coding practices  
+
+---
+
+## 🧰 Skills & Tools
+- C++ | Problem Solving | Debugging  
+- Git & GitHub | VS Code  
+- Algorithms & Data Structures basics  
+
+---
+
+## 📌 Goals
+- Strengthen problem-solving skills  
+- Build solid programming foundations  
+- Create a professional GitHub portfolio  
+- Prepare for real-world projects and backend development  
+
+---
+
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/leen-al-jamal-a188543b2/)
